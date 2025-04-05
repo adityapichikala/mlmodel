@@ -1,0 +1,5 @@
+google-generativeai==0.3.2  # Or the latest version
+joblib
+pandas
+scikit-learn  # Required for the XGBoost model if used with sklearn API
+xgboost
