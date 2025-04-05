@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: crop-yield-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
