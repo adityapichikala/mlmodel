@@ -3,3 +3,4 @@ joblib
 pandas
 scikit-learn  # Required for the XGBoost model if used with sklearn API
 xgboost
+Flask
